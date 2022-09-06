@@ -1,13 +1,13 @@
 # 정보체계시스템
 
-- <b>고객사</b></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 삼성전자
-- <b>참여기간</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 2019.06 ~ 2020.01 (7개월)
-- <b>역활</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 개발(팀원)
-- <b>O.S</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Win, Unix
-- <b>언어</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Java, Pro*C
+- <b>고객사</b></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 국방부
+- <b>참여기간</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 2020.07 ~ 2021.05 (10개월)
+- <b>역활</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 설계, 개발(팀원)
+- <b>O.S</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Win
+- <b>언어</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Java, JavaScript, jQuery
 - <b>DBMS</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Oracle
-- <b>Tool</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: EzDFS
-- <b>Framework</b>&nbsp;&nbsp;&nbsp;&nbsp;: EzDFS
-- <b>업무내용</b>&nbsp;&nbsp;&nbsp;&nbsp;: 고객사에서 사용하고 있는 입출고 시스템 중에서 배치프로그램이 Pro*C로 짜여져 있는데, 이 프로그램들을 Java 언어로 재구성하여 고도화하는 프로젝트이다. 이 프로그램을 변환시키기 위해 사용하였던 Tool은 EzDFS라는 Tool을 사용하였다.  
+- <b>Tool</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Eclipse, EasyMaker (UI Tool)
+- <b>Framework</b>&nbsp;&nbsp;&nbsp;&nbsp;: 전자정부프레임워크 (eGovFrame)
+- <b>업무내용</b>&nbsp;&nbsp;&nbsp;&nbsp;: 국방부에서 군무원들이 사용하고 있는 웹 프로그램을 리뉴얼 하는 프로젝트다. 담당업무는 교신분야를 맡아서 설계와 개발을 하였다. 설계는 테스트 시나리오, 컴포넌트 설계서와 요구사항 추적표를 주로 작성하고 개발은 주로 Eclipse, EasyMaker(UI Tool), Oz Report(Report Tool)로 작업하였다.
 
 &nbsp;&nbsp;&nbsp;<img src="projects/military.png" width="400">
